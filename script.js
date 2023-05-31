@@ -170,7 +170,7 @@ console.log(
         getDays(new Date("July 20, 2019"), new Date("July 30, 2019"))
 );
 
-//Question 17
+//Question 17 ما اعطيت نفسي وقت كفاية
 
 // const countAnimals = (str) => {
 //     let animals = [
@@ -234,4 +234,4 @@ console.log(
         })
 );
 
-//Question 20
+//Question 20 ما اعطيت نفسي وقت كفاية
